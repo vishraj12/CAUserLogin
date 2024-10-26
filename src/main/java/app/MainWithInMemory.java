@@ -19,7 +19,7 @@ import view.ViewManager;
 /**
  * The version of Main with an external database used to persist user data.
  */
-public class MainwithInMemory {
+public class MainWithInMemory {
 
     /**
      * The main method for starting the program with an external database used to persist user data.
